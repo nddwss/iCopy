@@ -8,7 +8,7 @@ Copy GoogleDrive Resources via [Telegram](http://telegram.org) BOT
   For Linux directly use this command  
   `bash <(wget -qO- https://git.io/gclone.sh)`  
 4.`pip install python-telegram-bot`  
-5.`git clone https://github.com/fxxkrlab/iCopy.git && cd iCopy`  
+5.`git clone https://github.com/nddwss/iCopy.git && cd iCopy`  
 6.`cp settings.py.example settings.py`  
 7.Edit settings.py   
 
